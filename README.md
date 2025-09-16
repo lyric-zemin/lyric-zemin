@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lyric-zemin/count.svg" />
 </p>
+-->
