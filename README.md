@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lyric-zemin.lyric-zemin&format=true)
+
 <!-- 
 <p align="center"> 
   Visitor count<br>
